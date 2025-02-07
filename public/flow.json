@@ -1,0 +1,462 @@
+{
+  "messageToEdit": "",
+  "elements": {
+    "nodes": [
+      {
+        "type": "starting-step",
+        "data": {},
+        "events": {},
+        "id": "starting-stepymvnpqxi0j85vl9ohqvv1",
+        "position": {
+          "x": -15,
+          "y": 135
+        },
+        "label": "starting-step node"
+      },
+      {
+        "type": "facebook-message",
+        "data": {},
+        "events": {},
+        "id": "facebook-messagez4hwqossrupacet63z2l8d",
+        "position": {
+          "x": 510,
+          "y": 135
+        },
+        "label": "facebook-message node"
+      },
+      {
+        "type": "facebook-message",
+        "data": {},
+        "events": {},
+        "id": "facebook-messageafc146v8sgv3vrn8utpblx",
+        "position": {
+          "x": 1485,
+          "y": 120
+        },
+        "label": "facebook-message node"
+      },
+      {
+        "type": "facebook-message",
+        "data": {},
+        "events": {},
+        "id": "facebook-message2hsnedgkt43h1z50mpur7w",
+        "position": {
+          "x": 990,
+          "y": 750
+        },
+        "label": "facebook-message node"
+      },
+      {
+        "type": "facebook-message",
+        "data": {},
+        "events": {},
+        "id": "facebook-message00n5o7tn1xkapj01ktm9ifi",
+        "position": {
+          "x": 990,
+          "y": 135
+        },
+        "label": "facebook-message node"
+      },
+      {
+        "type": "facebook-message",
+        "data": {},
+        "events": {},
+        "id": "facebook-messagelhfd58aayue3to1s7t7p",
+        "position": {
+          "x": 1485,
+          "y": 1005
+        },
+        "label": "facebook-message node"
+      },
+      {
+        "type": "facebook-message",
+        "data": {},
+        "events": {},
+        "id": "facebook-messagedth8noh0o0u0zxxnmuwht6a",
+        "position": {
+          "x": 1485,
+          "y": 600
+        },
+        "label": "facebook-message node"
+      },
+      {
+        "type": "facebook-message",
+        "data": {},
+        "events": {},
+        "id": "facebook-messagejlqhq7pknzip5aumhbmsq",
+        "position": {
+          "x": 1995,
+          "y": 300
+        },
+        "label": "facebook-message node"
+      },
+      {
+        "type": "facebook-message",
+        "data": {},
+        "events": {},
+        "id": "facebook-messageik42rm2usrbfz3fg04xvpo",
+        "position": {
+          "x": 2010,
+          "y": 600
+        },
+        "label": "facebook-message node"
+      },
+      {
+        "type": "facebook-message",
+        "data": {},
+        "events": {},
+        "id": "facebook-messagenwt1icesp8kgscq3ol1yxg",
+        "position": {
+          "x": 2010,
+          "y": 900
+        },
+        "label": "facebook-message node"
+      }
+    ],
+    "edges": [
+      {
+        "sourceHandle": "qpeg7pkclh8poobhcjrafgright",
+        "targetHandle": "facebook-messagez4hwqossrupacet63z2l8dleft",
+        "type": "custom",
+        "source": "starting-stepymvnpqxi0j85vl9ohqvv1",
+        "target": "facebook-messagez4hwqossrupacet63z2l8d",
+        "data": {},
+        "events": {},
+        "animated": false,
+        "id": "vueflow__edge-starting-stepymvnpqxi0j85vl9ohqvv1qpeg7pkclh8poobhcjrafgright-facebook-messagez4hwqossrupacet63z2l8dfacebook-messagez4hwqossrupacet63z2l8dleft",
+        "sourceX": 266.6057478460744,
+        "sourceY": 256.7598546058364,
+        "targetX": 504.99995006053,
+        "targetY": 215.00197241028417
+      },
+      {
+        "sourceHandle": "sivexwa3j3wgv05knp61right",
+        "targetHandle": "facebook-message00n5o7tn1xkapj01ktm9ifileft",
+        "type": "custom",
+        "source": "facebook-messagez4hwqossrupacet63z2l8d",
+        "target": "facebook-message00n5o7tn1xkapj01ktm9ifi",
+        "data": {},
+        "events": {},
+        "animated": false,
+        "id": "vueflow__edge-facebook-messagez4hwqossrupacet63z2l8dsivexwa3j3wgv05knp61right-facebook-message00n5o7tn1xkapj01ktm9ififacebook-message00n5o7tn1xkapj01ktm9ifileft",
+        "sourceX": 857.816522484814,
+        "sourceY": 289.3380461627348,
+        "targetX": 984.99995006053,
+        "targetY": 215.00197241028417
+      },
+      {
+        "sourceHandle": "1ujdg5chxecntqj8f87a9right",
+        "targetHandle": "facebook-message2hsnedgkt43h1z50mpur7wleft",
+        "type": "custom",
+        "source": "facebook-messagez4hwqossrupacet63z2l8d",
+        "target": "facebook-message2hsnedgkt43h1z50mpur7w",
+        "data": {},
+        "events": {},
+        "animated": false,
+        "id": "vueflow__edge-facebook-messagez4hwqossrupacet63z2l8d1ujdg5chxecntqj8f87a9right-facebook-message2hsnedgkt43h1z50mpur7wfacebook-message2hsnedgkt43h1z50mpur7wleft",
+        "sourceX": 857.816522484814,
+        "sourceY": 345.31457516632355,
+        "targetX": 984.99995006053,
+        "targetY": 830.0020269008022
+      },
+      {
+        "sourceHandle": "g7h8bz5wzbkad3y143thgtright",
+        "targetHandle": "facebook-messageafc146v8sgv3vrn8utpblxleft",
+        "type": "custom",
+        "source": "facebook-message00n5o7tn1xkapj01ktm9ifi",
+        "target": "facebook-messageafc146v8sgv3vrn8utpblx",
+        "data": {},
+        "events": {},
+        "animated": false,
+        "id": "vueflow__edge-facebook-message00n5o7tn1xkapj01ktm9ifig7h8bz5wzbkad3y143thgtright-facebook-messageafc146v8sgv3vrn8utpblxfacebook-messageafc146v8sgv3vrn8utpblxleft",
+        "sourceX": 1337.816522484814,
+        "sourceY": 289.3380461627348,
+        "targetX": 1479.99995006053,
+        "targetY": 200.00202690080226
+      },
+      {
+        "sourceHandle": "9hqwmx941aviljnoi26tsright",
+        "targetHandle": "facebook-messagedth8noh0o0u0zxxnmuwht6aleft",
+        "type": "custom",
+        "source": "facebook-message00n5o7tn1xkapj01ktm9ifi",
+        "target": "facebook-messagedth8noh0o0u0zxxnmuwht6a",
+        "data": {},
+        "events": {},
+        "animated": false,
+        "id": "vueflow__edge-facebook-message00n5o7tn1xkapj01ktm9ifi9hqwmx941aviljnoi26tsright-facebook-messagedth8noh0o0u0zxxnmuwht6afacebook-messagedth8noh0o0u0zxxnmuwht6aleft",
+        "sourceX": 1337.816522484814,
+        "sourceY": 345.31457516632355,
+        "targetX": 1479.99995006053,
+        "targetY": 680.0021358818384
+      },
+      {
+        "sourceHandle": "7lrlhm139tjnmssc410pmright",
+        "targetHandle": "facebook-messagelhfd58aayue3to1s7t7pleft",
+        "type": "custom",
+        "source": "facebook-message00n5o7tn1xkapj01ktm9ifi",
+        "target": "facebook-messagelhfd58aayue3to1s7t7p",
+        "data": {},
+        "events": {},
+        "animated": false,
+        "id": "vueflow__edge-facebook-message00n5o7tn1xkapj01ktm9ifi7lrlhm139tjnmssc410pmright-facebook-messagelhfd58aayue3to1s7t7pfacebook-messagelhfd58aayue3to1s7t7pleft",
+        "sourceX": 1337.816522484814,
+        "sourceY": 401.2912131509484,
+        "targetX": 1479.99995006053,
+        "targetY": 1085.0019179197661
+      },
+      {
+        "sourceHandle": "75wq964lf0kqnghxuyhi2right",
+        "targetHandle": "facebook-messagejlqhq7pknzip5aumhbmsqleft",
+        "type": "custom",
+        "source": "facebook-messagedth8noh0o0u0zxxnmuwht6a",
+        "target": "facebook-messagejlqhq7pknzip5aumhbmsq",
+        "data": {},
+        "events": {},
+        "animated": false,
+        "id": "vueflow__edge-facebook-messagedth8noh0o0u0zxxnmuwht6a75wq964lf0kqnghxuyhi2right-facebook-messagejlqhq7pknzip5aumhbmsqfacebook-messagejlqhq7pknzip5aumhbmsqleft",
+        "sourceX": 1832.8167404468863,
+        "sourceY": 754.3381006532529,
+        "targetX": 1990.0003859846747,
+        "targetY": 380.00197241028417
+      },
+      {
+        "sourceHandle": "00dlv4g1mzryq76xwtbdf3jpright",
+        "targetHandle": "facebook-messageik42rm2usrbfz3fg04xvpoleft",
+        "type": "custom",
+        "source": "facebook-messagedth8noh0o0u0zxxnmuwht6a",
+        "target": "facebook-messageik42rm2usrbfz3fg04xvpo",
+        "data": {},
+        "events": {},
+        "animated": false,
+        "id": "vueflow__edge-facebook-messagedth8noh0o0u0zxxnmuwht6a00dlv4g1mzryq76xwtbdf3jpright-facebook-messageik42rm2usrbfz3fg04xvpofacebook-messageik42rm2usrbfz3fg04xvpoleft",
+        "sourceX": 1832.8167404468863,
+        "sourceY": 810.3146841473597,
+        "targetX": 2005.0001680226023,
+        "targetY": 680.0021358818384
+      },
+      {
+        "sourceHandle": "cl886hrshvgh3l3mun0gasright",
+        "targetHandle": "facebook-messagenwt1icesp8kgscq3ol1yxgleft",
+        "type": "custom",
+        "source": "facebook-messagedth8noh0o0u0zxxnmuwht6a",
+        "target": "facebook-messagenwt1icesp8kgscq3ol1yxg",
+        "data": {},
+        "events": {},
+        "animated": false,
+        "id": "vueflow__edge-facebook-messagedth8noh0o0u0zxxnmuwht6acl886hrshvgh3l3mun0gasright-facebook-messagenwt1icesp8kgscq3ol1yxgfacebook-messagenwt1icesp8kgscq3ol1yxgleft",
+        "sourceX": 1832.8167404468863,
+        "sourceY": 866.2912676414664,
+        "targetX": 2004.99995006053,
+        "targetY": 980.0020269008022
+      }
+    ],
+    "position": [102.59129582579794, 26.83050439746671],
+    "zoom": 0.5600534228080958,
+    "viewport": {
+      "x": 102.59129582579794,
+      "y": 26.83050439746671,
+      "zoom": 0.5600534228080958
+    }
+  },
+  "messages": [
+    {
+      "id": "starting-stepymvnpqxi0j85vl9ohqvv1",
+      "type": "starting-step",
+      "label": "Label",
+      "content": "Type",
+      "color": "#ffffff",
+      "items": [
+        {
+          "id": "qpeg7pkclh8poobhcjrafg",
+          "keyword": "Enter Keywords"
+        }
+      ]
+    },
+    {
+      "id": "facebook-messagez4hwqossrupacet63z2l8d",
+      "type": "facebook-message",
+      "label": "Label",
+      "color": "#ffffff",
+      "items": [
+        {
+          "id": "xcv57m9gwhgkvdmlhn7c9",
+          "type": "messengerTextVue",
+          "text": "Enter Message Text",
+          "buttons": [
+            {
+              "id": "sivexwa3j3wgv05knp61",
+              "text": "Асуулт хариулт"
+            },
+            {
+              "id": "1ujdg5chxecntqj8f87a9",
+              "text": "Апп татах\n\n\n"
+            },
+            {
+              "id": "i017p00g7gr5uqvqnpagbq",
+              "text": "Ажилтантай холбогдох\n\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "facebook-messageafc146v8sgv3vrn8utpblx",
+      "type": "facebook-message",
+      "label": "Label",
+      "color": "#ffffff",
+      "items": [
+        {
+          "id": "i8phow0m8edr9fc2byo1",
+          "type": "messengerTextVue",
+          "text": "Кредит скор буюу зээлийн оноо гэдэг нь тухайн зээлдэгчийн зээлжих чадварын тоон илэрхийлэл бөгөөд Easy loan апп 0-100 хооронд үнэлдэг. Энэ нь зээлдэгчийн тухайн зээлийг хугацаанд нь төлөх магадлалыг үнэлэхэд тусална гэсэн үг.\n",
+          "buttons": []
+        }
+      ]
+    },
+    {
+      "id": "facebook-message2hsnedgkt43h1z50mpur7w",
+      "type": "facebook-message",
+      "label": "Label",
+      "color": "#ffffff",
+      "items": [
+        {
+          "id": "zvouf2reblm1lzwoq0862v",
+          "type": "messengerTextVue",
+          "text": "🔗Апп татах холбоос: \n",
+          "buttons": [
+            {
+              "id": "1v3wr3icct8rpla5x1mwdf",
+              "text": "IOS  https://shorturl.at/Xb5Rh"
+            },
+            {
+              "id": "j4287zi97i0uxh9jm7jpv",
+              "text": "Android https://shorturl.at/s0FI7 "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "facebook-message00n5o7tn1xkapj01ktm9ifi",
+      "type": "facebook-message",
+      "label": "Label",
+      "color": "#ffffff",
+      "items": [
+        {
+          "id": "ab70chv9qkv005ary4vtiqoa",
+          "type": "messengerTextVue",
+          "text": "Асуулт хариулт",
+          "buttons": [
+            {
+              "id": "g7h8bz5wzbkad3y143thgt",
+              "text": "Кредит оноо гэж юу вэ?"
+            },
+            {
+              "id": "9hqwmx941aviljnoi26ts",
+              "text": "Түгээмэл асуулт\n\n\n"
+            },
+            {
+              "id": "7lrlhm139tjnmssc410pm",
+              "text": "Зээлийн хүсэлт явуулах/ Хэтэвч цэнэглэх\n\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "facebook-messagelhfd58aayue3to1s7t7p",
+      "type": "facebook-message",
+      "label": "Label",
+      "color": "#ffffff",
+      "items": [
+        {
+          "id": "7oav0zfixtvkqp4ta3b1w",
+          "type": "messengerVideoVue",
+          "number": "Card Video Comment",
+          "video_url": "",
+          "link": "https://www.facebook.com/61571790104752/videos/1309620720073182",
+          "buttons": []
+        },
+        {
+          "id": "ruovjfrpxzcy31sbnae7xj",
+          "type": "messengerTextVue",
+          "text": "Өөрийн хэтэвчин дээр дарч орлого үйлдэлийг сонгон ашигладаг банкны апп-аар гүйгээ хийж хэтэвчээ цэнэглээрэй. \nАнхааруулга. Хэрэв та 3 удаа татгалзсан хариу өгсөн бол тухайн өдөр хүсэлт илгээх тоо гүйцэж дахин хүсэлт илгээх боломжгүй болно.\nМөн харилцагчийн буланд байх Харилцагчийг таньж мэдэх асуулгыг бүрэн бөглөж зээлийн хүсэлтээ явуулна уу.",
+          "buttons": []
+        }
+      ]
+    },
+    {
+      "id": "facebook-messagedth8noh0o0u0zxxnmuwht6a",
+      "type": "facebook-message",
+      "label": "Label",
+      "color": "#ffffff",
+      "items": [
+        {
+          "id": "okrin6zw5uqtnvcmsw59k",
+          "type": "messengerTextVue",
+          "text": "Түгээмэл асуулт\n",
+          "buttons": [
+            {
+              "id": "75wq964lf0kqnghxuyhi2",
+              "text": "Хаяг"
+            },
+            {
+              "id": "00dlv4g1mzryq76xwtbdf3jp",
+              "text": "Утас"
+            },
+            {
+              "id": "cl886hrshvgh3l3mun0gas",
+              "text": " Цагийн хуваарь"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "facebook-messagejlqhq7pknzip5aumhbmsq",
+      "type": "facebook-message",
+      "label": "Label",
+      "color": "#ffffff",
+      "items": [
+        {
+          "id": "nz85bxieszfzjzokay80e",
+          "type": "messengerTextVue",
+          "text": "хаяг УБ, Сүхбаатар дүүрэг, 4-р хороо Хэрлэн плаза 3 давхар",
+          "buttons": []
+        }
+      ]
+    },
+    {
+      "id": "facebook-messageik42rm2usrbfz3fg04xvpo",
+      "type": "facebook-message",
+      "label": "Label",
+      "color": "#ffffff",
+      "items": [
+        {
+          "id": "stv0x6eueucdeeyc6ddgww",
+          "type": "messengerTextVue",
+          "text": "- утас 77008833 \n",
+          "buttons": []
+        }
+      ]
+    },
+    {
+      "id": "facebook-messagenwt1icesp8kgscq3ol1yxg",
+      "type": "facebook-message",
+      "label": "Label",
+      "color": "#ffffff",
+      "items": [
+        {
+          "id": "uqdm13h3enr4kpxhiur4c4",
+          "type": "messengerTextVue",
+          "text": "🕰 Цагийн хуваарь:\nДаваа-Баасан 09:00-18:00\nЦайны цаг: 13:00-14:00\n\nхэрвээ ажлын цаг дууссан нөхцөлд \nЦагийн хуваарь: Даваа~Баасан 09:00~18:00 тул ажлын цаг эхэлмэгц манай ажилтан тантай холбогдох болно. Баярлалаа😁😁😁",
+          "buttons": []
+        }
+      ]
+    }
+  ],
+  "default_values": {
+    "image": "https://images.unsplash.com/photo-1545703399-4313b14625d9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8&w=1000&q=80",
+    "video": ""
+  }
+}
