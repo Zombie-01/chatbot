@@ -82,7 +82,7 @@ export class Chatbot {
     
     try {
       if (item.type === 'messengerTextVue') {
-        if (item.buttons?.length > 0) {
+        if (item.buttons && item.buttons?.length > 0) {
           return {
             template_type: 'button',
             text: item.text || '',
@@ -166,7 +166,7 @@ export class Chatbot {
   private startSessionCleanup() {
     setInterval(() => {
       const now = Date.now();
-      for (const [senderId, session] of this.userSessions.entries()) {
+      for (const [senderId, session] of this.userSessions.entries() as any) {
         if (now - session.lastInteraction.getTime() > this.sessionTimeout) {
           this.userSessions.delete(senderId);
         }
