@@ -3,12 +3,11 @@ export default function Home() {
     <div
       style={{
         maxWidth: 1280,
-        margin: '0 auto',
-        padding: '2rem',
-        textAlign: 'center',
-      }}
-    >
-      Start prompting.
+        margin: "0 auto",
+        padding: "2rem",
+        textAlign: "center"
+      }}>
+      WEbhook for fb
     </div>
   );
 }
