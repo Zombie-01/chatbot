@@ -15,7 +15,7 @@ function checkRateLimit(ip: string): boolean {
   const windowStart = now - RATE_LIMIT_WINDOW;
   
   // Clean up old entries
-  for (const [key, data] of ipRequests.entries()) {
+  for (const [key, data] of ipRequests.entries() as any) {
     if (data.timestamp < windowStart) {
       ipRequests.delete(key);
     }
